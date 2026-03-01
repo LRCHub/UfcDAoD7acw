@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "あなたといたい",
+  "base_artist": "Ayumu Imazu",
+  "createdAt": "2026-03-01T11:32:39.066351Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あなたといたい",
+      "artist": "Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/01_あなたといたい_Ayumu_Imazu.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたといたい",
+      "artist": "Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/pl_01_あなたといたい_Ayumu_Imazu.txt"
+    }
+  ]
+}
